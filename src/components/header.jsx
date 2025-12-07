@@ -98,7 +98,7 @@ const Header = () => {
           <div className="flex items-center space-x-4">
             <Avatar className="md:h-14 md:w-14">
               <AvatarImage className="object-center object-cover" src="/images/khushal-profile.JPG" />
-              <AvatarFallback>JB</AvatarFallback>
+              <AvatarFallback>RK</AvatarFallback>
             </Avatar>
             {/* Theme Toggle */}
             {/* <button
