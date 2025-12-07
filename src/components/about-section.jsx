@@ -71,6 +71,9 @@ const AboutSection = () => {
   <span className="font-semibold text-primary-600 dark:text-primary-400">
     leadership and team collaboration experience
   </span> 
+
+
+  
   through mentoring teammates, performing code reviews, and following best practices like SOLID principles, clean code, and optimized database design.
   My DevOps experience includes CI/CD pipelines, Docker, and deployment on Azure and IIS.
 </p>
