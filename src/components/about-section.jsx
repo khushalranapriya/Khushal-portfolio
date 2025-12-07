@@ -63,6 +63,9 @@ const AboutSection = () => {
   I frequently work with modern UI libraries and ensure seamless communication between frontend and backend.
 </p>
 
+
+
+
 <p className="text-neutral-700 dark:text-neutral-300 leading-relaxed mt-2">
   Beyond coding, I’ve gained 
   <span className="font-semibold text-primary-600 dark:text-primary-400">
