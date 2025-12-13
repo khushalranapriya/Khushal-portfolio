@@ -59,7 +59,7 @@ const AboutSection = () => {
   <span className="font-semibold text-primary-600 dark:text-primary-400">
     frontend frameworks
   </span> 
-  like React.js and Angular, especially for integrating API-driven features. 
+  like  Angular, especially for integrating API-driven features. 
   I frequently work with modern UI libraries and ensure seamless communication between frontend and backend.
 </p>
 
