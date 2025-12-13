@@ -57,9 +57,9 @@ const AboutSection = () => {
 <p className="text-neutral-700 dark:text-neutral-300 leading-relaxed mt-2">
   Along with backend development, I have hands-on experience with 
   <span className="font-semibold text-primary-600 dark:text-primary-400">
-    frontend frameworks
+     frontend frameworks 
   </span> 
-  like  Angular, especially for integrating API-driven features. 
+   like  Angular, especially for integrating API-driven features. 
   I frequently work with modern UI libraries and ensure seamless communication between frontend and backend.
 </p>
 
@@ -69,19 +69,19 @@ const AboutSection = () => {
 <p className="text-neutral-700 dark:text-neutral-300 leading-relaxed mt-2">
   Beyond coding, I’ve gained 
   <span className="font-semibold text-primary-600 dark:text-primary-400">
-    leadership and team collaboration experience
+      leadership and team collaboration experience
   </span> 
 
 
   
-  through mentoring teammates, performing code reviews, and following best practices like SOLID principles, clean code, and optimized database design.
+   through mentoring teammates, performing code reviews, and following best practices like SOLID principles, clean code, and optimized database design.
   My DevOps experience includes CI/CD pipelines, Docker, and deployment on Azure and IIS.
 </p>
 
 <p className="text-neutral-700 dark:text-neutral-300 leading-relaxed mt-2">
   As a growth-oriented professional, I’m continuously expanding my skills toward full-stack capabilities with a focus on 
   <span className="font-semibold text-primary-600 dark:text-primary-400">
-    cloud technologies, microservices, and high-performance backend development
+     cloud technologies, microservices, and high-performance backend development
   </span>.
 </p>
 
